@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Keiana Dunn, MS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : <i> Data Scientist <br> Data Diva <br> Skater <br> People person <br> Lover of learning </i>
   location         :
   email            : "keianadunn@gmail.com"
