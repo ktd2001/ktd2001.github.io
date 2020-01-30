@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : <i> Data Scientist <br> Data Diva <br> Skater <br> People person <br><br> Lover of learning</i>
   location         :
-  email            :"keianadunn@gmail.com"
+  email            : "keianadunn@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
