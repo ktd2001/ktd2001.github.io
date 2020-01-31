@@ -39,7 +39,9 @@ ktd2001.github.io is hosted by Github Pages and was created using Jekyll Minimal
 
 ## Contact Me
 Feel free to contact me: 
+#
 LinkedIn:keianadunn
+#
 GitHub: ktd2001
 
 Thank you for reading!
