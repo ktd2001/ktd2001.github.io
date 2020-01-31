@@ -30,7 +30,7 @@ I graduated University of California at Davis with a Bachelor of Science in Anim
   </figcaption>
 </figure>
 
-
+##   ##
 In my spare time, I enjoy spending time with family, rollerskating, and traveling. 
 
 ## Setup
