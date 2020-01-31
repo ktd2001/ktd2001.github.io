@@ -30,7 +30,7 @@ I graduated University of California at Davis with a Bachelor of Science in Anim
   </figcaption>
 </figure>
 
-##   ##
+## 
 In my spare time, I enjoy spending time with family, rollerskating, and traveling. 
 
 ## Setup
@@ -39,9 +39,8 @@ ktd2001.github.io is hosted by Github Pages and was created using Jekyll Minimal
 
 ## Contact Me
 Feel free to contact me: 
-#
-LinkedIn:keianadunn
-#
-GitHub: ktd2001
+* Email: <a href="mailto:{{keianadunn@gmail.com}}">keianadunn@gmail.com</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/keiana-dunn-b6bab861/">keiana-dunn</a>
+* GitHub: <a href="https://github.com/ktd2001">ktd2001</a>
 
 Thank you for reading!
