@@ -33,7 +33,12 @@ I graduated University of California at Davis with a Bachelor of Science in Anim
 
 In my spare time, I enjoy spending time with family, rollerskating, and traveling. 
 
+## Setup
+ktd2001.github.io is hosted by Github Pages and was created using Jekyll Minimal Mistakes. The author Michael Rose provides great [documentation](https://mmistakes.github.io/minimal-mistakes/) about setup for this template. 
 
+
+## Contact Me
+Feel free to contact me: 
 LinkedIn:keianadunn
 GitHub: ktd2001
 
