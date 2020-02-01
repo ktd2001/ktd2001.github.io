@@ -7,10 +7,10 @@ author_profile: true
 published: true
 ---
 
-Hello! My name is Keiana Dunn. I am a Data Scientist within NYC area.
+Hello! My name is Keiana Dunn. I am a Budding Data Scientist within NYC area.
 
 ## Background
-I graduated University of California at Davis with a Bachelor of Science in Animal Science and Management. Exposure to the managing the well-being of animals in big pharma and best practices for animal model data collections shifted my interests from applied animal science to the application of data analytics. After research into the field of data science, I was accepted into the Master of Science in [Data Science & Strategic Analytics](http://stockton.edu/datascience) program, and graduated August 2019.
+I graduated University of California at Davis with a Bachelor of Science in Animal Science and Management. Exposure to managing the well-being of animals in big pharma and using best practices for animal model data collections shifted my interests from applied animal science to the application of data analytics. After research into the field of data science, I was accepted into the Master of Science in [Data Science & Strategic Analytics](http://stockton.edu/datascience) program, and graduated August 2019.
 
 <figure>
   <img src="/assets/about/dunn_mason_12_5_2018.jpg" caption = "Machine Learning | December 5, 2018" class = "center">
@@ -30,11 +30,11 @@ I graduated University of California at Davis with a Bachelor of Science in Anim
   </figcaption>
 </figure>
 
-## 
-In my spare time, I enjoy spending time with family, rollerskating, and traveling. 
+# #
+In my spare time, I enjoy spending time with family (including the fury ones), rollerskating, and traveling. 
 
 ## Setup
-ktd2001.github.io is hosted by Github Pages and was created using Jekyll Minimal Mistakes. The author Michael Rose provides great [documentation](https://mmistakes.github.io/minimal-mistakes/) about setup for this template. 
+My blog is hosted by Github Pages and was created using Jekyll Minimal Mistakes. The author Michael Rose provides great [documentation](https://mmistakes.github.io/minimal-mistakes/) about setup for this template. 
 
 
 ## Contact Me
