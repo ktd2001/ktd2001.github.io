@@ -1,6 +1,6 @@
 ---
 title: Storytelling with Data
-date:  2020-02-21
+date:  2020-01-21
 tags:
   - storytelling
 author_profile: true
