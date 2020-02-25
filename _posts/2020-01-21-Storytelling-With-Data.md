@@ -4,7 +4,7 @@ date:  2020-01-21
 tags:
   - storytelling
 author_profile: true
-excerpt: Why structure is important to communicating effectively with data  
+excerpt: Why structure is important to communicating an effective data narrative
 mathjax: true
 toc: true
 published: true
