@@ -28,7 +28,7 @@ Throughout a career, the data scientist will frequently communicate their analys
 The book used for the course Communicating Data Stories is Randy Olsen's _Houston, We Have a Narrative_.{: .notice--info}
 <figure>
 href="https://www.amazon.com/Houston-We-Have-Narrative-Science/dp/022627084X/ref=sr_1_1?keywords=houston+we+have+a+narrative&qid=1582652075&sr=8-1">
-<img src="/assets/storytelling-with-data/Houston.png" width = "992" height = "712">
+<img src="/assets/storytelling-with-data/Houston.png" width = "600" height = "512">
  <figcaption> Houston, We Have a Narrative | By Randy Olsen
   </figcaption>
 </figure>
