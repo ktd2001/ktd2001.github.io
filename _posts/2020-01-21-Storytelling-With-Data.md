@@ -24,11 +24,11 @@ Throughout a career, the data scientist will frequently communicate their analys
 <!--Stockton University's Data Science program believes communication is so important that a 6 week accelerated summer course is dedicated to the betterment of conveying information and ideas. The goals of the course are to learn to develop an argument from data science techniques, share ideas and knowledge with diverse audiences, and formulate a balanced perspective on an issue or topic from the field of data science. -->
 
 **Disclaimer: I am not an expert in communication practices or with the And, But, Therefore template. I highly recommend this book for its explicit details in how to construct a narrative and humorous delivery.**
+[Data Science & Strategic Analytics](http://stockton.edu/datascience)
 
 The book used for the course Communicating Data Stories is Randy Olsen's _Houston, We Have a Narrative_.{: .notice--info}
 <figure>
-href="https://www.amazon.com/Houston-We-Have-Narrative-Science/dp/022627084X/ref=sr_1_1?keywords=houston+we+have+a+narrative&qid=1582652075&sr=8-1">
-<img src="/assets/storytelling-with-data/Houston.png" width = "892" height = "612">
+<[img src="/assets/storytelling-with-data/Houston.png" width = "892" height = "612"]]>(href="https://www.amazon.com/Houston-We-Have-Narrative-Science/dp/022627084X/ref=sr_1_1?keywords=houston+we+have+a+narrative&qid=1582652075&sr=8-1")
  <figcaption> Houston, We Have a Narrative | By Randy Olsen
   </figcaption>
 </figure>
