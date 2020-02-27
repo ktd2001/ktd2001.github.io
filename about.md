@@ -14,7 +14,7 @@ I graduated University of California at Davis with a Bachelor of Science in Anim
 
 <figure>
   <img src="/assets/about/dunn_mason_12_5_2018.jpg" caption = "Machine Learning | December 5, 2018" class = "center">
-  <figcaption> Machine Learning, Hammonton NJ | April 24, 2018
+  <figcaption> My advisor (Dr.Mason) and me  Machine Learning, Hammonton NJ | April 24, 2018
   </figcaption>
 </figure>
 
