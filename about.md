@@ -9,7 +9,7 @@ published: true
 
 Hello! My name is Keiana Dunn. I am a Budding Data Scientist within NYC area.
 
-## Background
+# Background
 I graduated University of California at Davis with a Bachelor of Science in Animal Science & Management and had a career as a clinical scientist. But I found that even with an in-dept understanding of managing the well-being of animals in big pharma and using best practices for animal model data collections, my interests shifted from applied animal science to the application of data analytics. After researching into the field of data science, I discovered this is were I possessed endless potential. Therefore I applied and was accepted into the Master of Science in [Data Science & Strategic Analytics](http://stockton.edu/datascience) program, and graduated August 2019. I have a strong passion for learning which is why I enjoy this field so much. No matter what data I am looking at, there is always something to learn whether it's statistics from the actual dataset, new coding methods for creating beautiful data stories or challenging myself to become better within data science. Take a look at some of my work in recent data posts.
 
 <figure>
