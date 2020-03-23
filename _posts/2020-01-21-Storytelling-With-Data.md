@@ -7,7 +7,7 @@ author_profile: true
 excerpt: Why structure is important to communicating an effective data narrative
 mathjax: true
 toc: true
-published: true
+published: false
 ---
 <!-- header:
   image: /assets/storytelling-with-data/economic_energy_presentation.jpg
