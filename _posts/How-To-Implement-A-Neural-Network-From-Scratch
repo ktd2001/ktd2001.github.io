@@ -6,7 +6,7 @@ tags:
   - machine learning
   - deep learning
 author_profile: false
-excerpt: Basic to a Neural Network Without Python Packages
+excerpt: Basics to a Neural Network Without Python Packages
 toc: true
 mathjax: true
 published: false
@@ -52,7 +52,7 @@ Code shown below:
 #Feed-Forward 
 <img src="forward_feed.png" width="400">
 
-#Back Propagation
+#Back Propagation/
 Back Propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
 gradient decents.With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
 better minimun as it moves throughout the gradient decent. The loss function allows for measuring how well the network is 
