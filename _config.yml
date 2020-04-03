@@ -113,7 +113,7 @@ author:
   location         : "New York"
   email            : "keianadunn@gmail.com"
   links:
-    - label: "Resume"
+    - label:"Resume"
       icon: "fas fa-fw fa-resume-square"
         url: KDunn_Resume1.pdf
     - label: "Website"
