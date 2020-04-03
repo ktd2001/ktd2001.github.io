@@ -113,9 +113,9 @@ author:
   location         : "New York"
   email            : "keianadunn@gmail.com"
   links:
-    - label:"Resume"
+   # - label:"Resume"
     #  icon: "fas fa-fw fa-resume-square"
-        url: KDunn_Resume1.pdf
+      #  url: KDunn_Resume1.pdf
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
