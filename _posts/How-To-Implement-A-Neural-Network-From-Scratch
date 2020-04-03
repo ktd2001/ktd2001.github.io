@@ -62,7 +62,8 @@ performing.
 
 <img src="back_proprogation.png" width="400">
 
-Results:  Overall, the Sigmoid function is not as good as the ReLU activation function in this case because ReLU provided 
+#Results:  
+Overall, the Sigmoid function is not as good as the ReLU activation function in this case because ReLU provided 
 more accurate predictions. With learning rates and increasing epochs being identical, ReLU continued to improve at a quicker 
 rate over Sigmond. 
 
