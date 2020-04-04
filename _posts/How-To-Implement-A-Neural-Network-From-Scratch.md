@@ -14,7 +14,7 @@ published: true
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/neural_network_fibers.jpeg" align="center" >
 
-To have a basic understanding of the underlying mechanisms of an Artifical Neural Network model, imagine a neural network as a brain. Within oushownr brain there are probably billions of neurons bouncing back and forth sending information to different parts of our body. These active neurons are known as synapses and is how we learn things. In a neural network, activation functions are super important. They work similar to synapses by helping the model perform better by learning the complex patterns within the data. Fooedfoward and back propogation algorithms were the processes to train the model. Side note: The artifical neural network model was originally developed in 1943 by Warren McCulloch and Walter Pitts. 
+To have a basic understanding of the underlying mechanisms of an Artifical Neural Network model, imagine a neural network as a brain. Within oushownr brain there are probably billions of neurons bouncing back and forth sending information to different parts of our body. These active neurons are known as synapses and is how we learn things. In a neural network, activation functions are super important. They work similar to synapses by helping the model perform better by learning the complex patterns within the data. Feed-foward and back propogation algorithms were the processes to train the model. Side note: The artifical neural network model was originally developed in 1943 by Warren McCulloch and Walter Pitts. 
 
 ## Project Overview:
 
@@ -40,13 +40,12 @@ data. The features were multiplied by corresponding "weights" and the products a
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/forward_feed.png" align="center" >
 
 # Back Propagation
-Back Propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
+Back propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
 gradient decents. With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
 better minimun as it moves throughout the gradient decent. The loss function allows for measuring how well the network is 
 performing.
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/learningrate_lossfunction.png" align="center" >
-
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/back_proprogation.png" align="center" >
 
