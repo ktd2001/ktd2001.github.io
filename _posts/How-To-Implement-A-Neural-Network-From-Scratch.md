@@ -29,13 +29,12 @@ Image: Multi-layer Artificial Neural Network Structure
 
 ## Code in review:
 
-Feed-forward process: This multi-layer neural network accepts five input values, which we will call features of the training 
-data. These featuresshown were multiplied by corresponding "weights" and the products are added to the bias.(input features x weights) + "bias" is computed and is passed into the each layer, which contains specific activation functions. These activation functions produces the final output. The output of the current layer will be the input to the next layer and then it repeats. Code shown below:
+This multi-layer neural network accepts five input values, which we will call features of the training 
+data. These featuresshown were multiplied by corresponding "weights" and the products are added to the bias.(input features x weights) + "bias" is computed and is passed into the each layer, which contains specific activation functions. These activation functions produces the final output. The output of the current layer will be the input to the next layer and then it repeats. These are the Feed-forward process. Code shown below:
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/feedforward_intializing.png" align="center" >
 
 # Activation Functions
-
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/activation_functions.png" align="center" >
 
 # Feed-Forward 
