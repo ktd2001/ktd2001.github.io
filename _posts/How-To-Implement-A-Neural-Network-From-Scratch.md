@@ -14,7 +14,7 @@ published: true
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/neural_network_fibers.jpeg" align="center" >
 
-To have a basic understanding of the underlying mechanisms of an Artifical Neural Network model, imagine a neural network as a brain. Within oushownr brain there are probably billions of neurons bouncing back and forth sending information to different parts of our body. These active neurons are known as synapses and is how we learn things. In a neural network, activation functions are super important. They work similar to synapses by helping the model perform better by learning the complex patterns within the data. Feed-foward and back propogation algorithms were the processes to train the model. Side note: The artifical neural network model was originally developed in 1943 by Warren McCulloch and Walter Pitts. 
+To have a basic understanding of the underlying mechanisms of an Artifical Neural Network model, imagine a neural network as a brain. Within oushownr brain there are probably billions of neurons bouncing back and forth sending information to different parts of our body. These active neurons are known as synapses and is how we learn things. In a neural network, activation functions are super important. They work similar to synapses by helping the model perform better by learning the complex patterns within the data. Feed-forward and back propogation algorithms were the processes to train the model. Side note: The artifical neural network model was originally developed in 1943 by Warren McCulloch and Walter Pitts. 
 
 ## Project Overview:
 
