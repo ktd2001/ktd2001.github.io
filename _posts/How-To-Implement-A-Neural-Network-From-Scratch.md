@@ -28,9 +28,8 @@ optimize the sum of square residual (SSR) value. This artifical neural network h
 Image: Multi-layer Artificial Neural Network Structure
 
 ## Code in review:
-
 This multi-layer neural network accepts five input values, which we will call features of the training 
-data. These featuresshown were multiplied by corresponding "weights" and the products are added to the bias.(input features x weights) + "bias" is computed and is passed into the each layer, which contains specific activation functions. These activation functions produces the final output. The output of the current layer will be the input to the next layer and then it repeats. These are the Feed-forward process. Code shown below:
+data. The features were multiplied by corresponding "weights" and the products are added to the bias.(input features x weights) + "bias" is computed and is passed into the each layer, which contains specific activation functions. These activation functions produces the final output. The output of the current layer will be the input to the next layer and then it repeats. This is the feed-forward process. Code shown below:
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/feedforward_intializing.png" align="center" >
 
@@ -42,7 +41,7 @@ data. These featuresshown were multiplied by corresponding "weights" and the pro
 
 # Back Propagation
 Back Propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
-gradient decents.With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
+gradient decents. With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
 better minimun as it moves throughout the gradient decent. The loss function allows for measuring how well the network is 
 performing.
 
@@ -61,3 +60,5 @@ Image: Learning Improved when SSR Value Decreased
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/NNSigmoid.png" align="center" >
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/NNReLu.png" align="center" >
  
+ ## Lessons Learned:
+Adjustments to the learning rate, epochs, weights, and activation functions will allow you to see how the network reacts.
