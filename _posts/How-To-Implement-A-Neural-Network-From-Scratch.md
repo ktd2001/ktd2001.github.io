@@ -12,11 +12,11 @@ mathjax: true
 published: true
 ---
 
-<img src="..assets/how-to-implement-a-neural-network-from-scratch/neural_network_fibers.jpeg" align="center" >
+<img src="../assets/how-to-implement-a-neural-network-from-scratch/neural_network_fibers.jpeg" align="center" >
 
 To have a basic understanding of the underlying mechanisms of an Artifical Neural Network model, imagine a neural network as a brain. Within oushownr brain there are probably billions of neurons bouncing back and forth sending information to different parts of our body. These active neurons are known as synapses and is how we learn things. In a neural network, activation functions are super important. They work similar to synapses by helping the model perform better by learning the complex patterns within the data. Fooedfoward and back propogation algorithms were the processes to train the model. Side note: The artifical neural network model was originally developed in 1943 by Warren McCulloch and Walter Pitts. 
 
-##Project Overview:
+## Project Overview:
 
 The architecture of the neural network is a four-layered structure that used data with 5 input features, 2 
 hidden layers, and 2 output features. Weights and Bias were randomly selected. Feed-forward and back propogation algorithms 
@@ -27,23 +27,21 @@ optimize the sum of square residual (SSR) value. This artifical neural network h
 
 Image: Multi-layer Artificial Neural Network Structure
 
-##Code in review:
+## Code in review:
 
 Feed-forward process: This multi-layer neural network accepts five input values, which we will call features of the training 
 data. These featuresshown were multiplied by corresponding "weights" and the products are added to the bias.(input features x weights) + "bias" is computed and is passed into the each layer, which contains specific activation functions. These activation functions produces the final output. The output of the current layer will be the input to the next layer and then it repeats. Code shown below:
 
-<img src="../assets/how-to-implement-a-neural-network-from-scratch/network_size.png" align="center" >
-
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/feedforward_intializing.png" align="center" >
 
-#Activation functions
+# Activation Functions
 
-<img src="../assets/how-to-implement-a-neural-network-from-scratch/activation_function.png" align="center" >
+<img src="../assets/how-to-implement-a-neural-network-from-scratch/activation_functions.png" align="center" >
 
-#Feed-Forward 
+# Feed-Forward 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/forward_feed.png" align="center" >
 
-#Back Propagation/
+# Back Propagation
 Back Propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
 gradient decents.With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
 better minimun as it moves throughout the gradient decent. The loss function allows for measuring how well the network is 
@@ -51,9 +49,10 @@ performing.
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/learningrate_lossfunction.png" align="center" >
 
+
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/back_proprogation.png" align="center" >
 
-#Results:  
+## Results:  
 Overall, the Sigmoid function is not as good as the ReLU activation function in this case because ReLU provided 
 more accurate predictions. With learning rates and increasing epochs being identical, ReLU continued to improve at a quicker 
 rate over Sigmond. 
@@ -61,6 +60,5 @@ rate over Sigmond.
 Image: Learning Improved when SSR Value Decreased
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/NNSigmoid.png" align="center" >
-
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/NNReLu.png" align="center" >
  
