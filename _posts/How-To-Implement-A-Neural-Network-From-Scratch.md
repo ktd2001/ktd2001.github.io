@@ -42,7 +42,7 @@ data. The features were multiplied by corresponding "weights" and the products a
 # Back Propagation
 Back propagation tries to find the error from the output found in the feed-forward by using the weights, loss function, and 
 gradient decents. With the right learning rate and additional epochs (cycles), hopefully the algorithms is able to find the a 
-better minimun as it moves throughout the gradient decent. The loss function allows for measuring how well the network is 
+local minimun as it moves throughout the gradient decent. The loss function measuring how well the model is 
 performing.
 
 <img src="../assets/how-to-implement-a-neural-network-from-scratch/learningrate_lossfunction.png" align="center" >
