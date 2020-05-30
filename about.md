@@ -31,7 +31,7 @@ I graduated from University of California at Davis with a Bachelor of Science in
 </figure>
 
  
-<In my spare time, I enjoy reading and spending with family (including the fury ones), rollerskating, and traveling. My goal is to visit ever roller rink in the country so head over to my photos to see which ones I've already been to.>
+In my spare time, I enjoy reading and spending with family (including the fury ones), rollerskating, and traveling. My goal is to visit ever roller rink in the country so head over to my photos to see which ones I've already been to.
 
 ## Setup
 My blog is hosted by Github Pages and was created using Jekyll Minimal Mistakes. The author Michael Rose provides great [documentation](https://mmistakes.github.io/minimal-mistakes/) about setup for this template. 
