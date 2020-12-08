@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Keiana Dunn, MS"
   avatar           : headshot.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : <i> Budding Data Scientist <br> Data Diva <br> Skater <br> People person <br> Lover of learning </i>
+  bio              : <i> Data Scientist <br> Lover of learning </i>
   location         : "New York"
   email            : "keianadunn@gmail.com"
   links:
